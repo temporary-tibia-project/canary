@@ -7888,13 +7888,7 @@
 		<attribute key="type" value="rune"/>
 		<attribute key="weight" value="120"/>
 	</item>
-	<item id="3202" article="a" name="thunderstorm rune">
-		<attribute key="primarytype" value="attack runes"/>
-		<attribute key="type" value="rune"/>
-		<attribute key="runespellname" value="adori mas vis"/>
-		<attribute key="charges" value="4"/>
-		<attribute key="weight" value="52"/>
-	</item>
+	
 	<item id="3203" article="an" name="animate dead rune">
 		<attribute key="primarytype" value="support runes"/>
 		<attribute key="type" value="rune"/>
