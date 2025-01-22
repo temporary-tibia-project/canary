@@ -329,15 +329,7 @@ GameStore.Categories = {
 				description = "<i>Place it in your house and fill up potions to refill your mana!</i>\n\n{house}\n{box}\n{storeinbox}\n{usablebyallicon} can be used to fill up potions by all characters that have access to the house\n{storeinboxicon} potions created from this cask will be sent to your Store inbox and can only be stored there and in depot box\n{backtoinbox}\n{info} usable 1000 times a piece\n{transferableprice}",
 				type = GameStore.OfferTypes.OFFER_TYPE_HOUSE,
 			},
-			{
-				icons = { "Ultimate_Spirit_Cask.png" },
-				name = "Ultimate Spirit Cask",
-				price = 42,
-				itemtype = 25900,
-				count = 1000,
-				description = "<i>Place it in your house and fill up potions to restore your hit points and mana!</i>\n\n{house}\n{box}\n{storeinbox}\n{usablebyallicon} can be used to fill up potions by all characters that have access to the house\n{storeinboxicon} potions created from this cask will be sent to your Store inbox and can only be stored there and in depot box\n{backtoinbox}\n{info} usable 1000 times a piece\n{transferableprice}",
-				type = GameStore.OfferTypes.OFFER_TYPE_HOUSE,
-			},
+			
 		},
 	},
 	-- Consumables ~ Exercise Weapons
