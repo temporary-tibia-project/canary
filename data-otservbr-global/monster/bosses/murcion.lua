@@ -83,9 +83,8 @@ monster.loot = {
 	{ name = "bullseye potion", chance = 10821, maxCount = 44 },
 	{ name = "green gem", chance = 7763, maxCount = 4 },
 	{ name = "mastermind potion", chance = 9534, maxCount = 15 },
-	{ name = "supreme health potion", chance = 6212, maxCount = 102 },
-	{ name = "ultimate mana potion", chance = 8785, maxCount = 29 },
-	{ name = "ultimate spirit potion", chance = 8783, maxCount = 161 },
+	{ name = "mana potion", chance = 6212, maxCount = 102 },
+	{ name = "mana potion", chance = 8783, maxCount = 161 },
 }
 
 monster.attacks = {

@@ -76,9 +76,8 @@ monster.loot = {
 	{ name = "Silver Token", chance = 100000, maxCount = 2 },
 	{ name = "Mysterious Remains", chance = 100000 },
 	{ name = "Yellow Gem", chance = 69230, maxCount = 2 },
-	{ name = "Ultimate Spirit Potion", chance = 61540, maxCount = 20 },
-	{ name = "Supreme Health Potion", chance = 53850, maxCount = 20 },
-	{ name = "Ultimate Mana Potion", chance = 53850, maxCount = 14 },
+	{ name = "mana potion", chance = 61540, maxCount = 20 },
+	{ name = "mana potion", chance = 53850, maxCount = 20 },
 	{ id = 3039, chance = 46150 }, -- red gem
 	{ id = 23529, chance = 38460 }, -- Ring of Blue Plasma
 	{ name = "Chaos Mace", chance = 23080 },

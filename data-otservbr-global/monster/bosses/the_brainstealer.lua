@@ -61,7 +61,7 @@ monster.loot = {
 	{ name = "violet gem", chance = 50000 },
 	{ name = "mastermind potion", chance = 50000 },
 	{ name = "moonstone", chance = 50000 },
-	{ name = "ultimate spirit potion", chance = 50000 },
+	{ name = "mana potion", chance = 50000 },
 	{ name = "white gem", chance = 50000 },
 	{ name = "brainstealer's tissue", chance = 6000 },
 	{ name = "brainstealer's brain", chance = 5000 },

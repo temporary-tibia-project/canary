@@ -60,8 +60,7 @@ monster.loot = {
 	{ name = "platinum coin", chance = 100000, maxcount = 30 },
 	{ id = 3039, chance = 35542, maxCount = 2 }, -- red gem
 	{ name = "ultimate health potion", chance = 27000, maxcount = 7 },
-	{ name = "ultimate mana potion", chance = 24300, maxcount = 5 },
-	{ name = "ultimate spirit potion", chance = 25750, maxcount = 4 },
+	{ name = "mana potion", chance = 25750, maxcount = 4 },
 	{ name = "mastermind potion", chance = 23200, maxcount = 3 },
 	{ name = "berserk potion", chance = 24800, maxcount = 3 },
 	{ name = "bullseye potion", chance = 23500, maxcount = 3 },

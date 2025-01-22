@@ -80,9 +80,8 @@ monster.voices = {
 monster.loot = {
 	{ name = "crystal coin", chance = 5441, maxCount = 108 },
 	{ name = "mastermind potion", chance = 5530, maxCount = 28 },
-	{ name = "supreme health potion", chance = 5044, maxCount = 154 },
+	{ name = "mana potion", chance = 5044, maxCount = 154 },
 	{ name = "giant sapphire", chance = 10546, maxCount = 1 },
-	{ name = "ultimate mana potion", chance = 5752, maxCount = 107 },
 	{ name = "violet gem", chance = 13217, maxCount = 4 },
 	{ id = 3039, chance = 13465, maxCount = 1 }, -- red gem
 	{ name = "yellow gem", chance = 14071, maxCount = 1 },
@@ -91,7 +90,7 @@ monster.loot = {
 	{ name = "giant amethyst", chance = 11603, maxCount = 1 },
 	{ name = "giant topaz", chance = 12280, maxCount = 1 },
 	{ name = "green gem", chance = 8348, maxCount = 1 },
-	{ name = "ultimate spirit potion", chance = 10934, maxCount = 18 },
+	{ name = "mana potion", chance = 10934, maxCount = 18 },
 	{ name = "white gem", chance = 9600, maxCount = 3 },
 }
 

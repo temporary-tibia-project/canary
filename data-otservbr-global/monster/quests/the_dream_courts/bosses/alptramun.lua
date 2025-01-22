@@ -109,9 +109,9 @@ monster.loot = {
 	{ name = "silver token", chance = 100000, maxCount = 5 },
 	{ name = "skull staff", chance = 32500 },
 	{ name = "soul stone", chance = 5000 },
-	{ name = "supreme health potion", chance = 60000, maxCount = 24 },
-	{ name = "ultimate mana potion", chance = 52500, maxCount = 20 },
-	{ name = "ultimate spirit potion", chance = 80000, maxCount = 24 },
+	{ name = "mana potion", chance = 60000, maxCount = 24 },
+	{ name = "mana potion", chance = 52500, maxCount = 20 },
+	{ name = "mana potion", chance = 80000, maxCount = 24 },
 	{ name = "violet gem", chance = 17500 },
 	{ name = "yellow gem", chance = 32500, maxCount = 2 },
 }

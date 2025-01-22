@@ -87,7 +87,7 @@ monster.loot = {
 	{ name = "platinum amulet", chance = 13600000 },
 	{ id = 3098, chance = 13600000 }, -- ring of healing
 	{ name = "troll green", chance = 13600000, maxCount = 9 },
-	{ name = "ultimate mana potion", chance = 13600000, maxCount = 9 },
+	{ name = "mana potion", chance = 13600000, maxCount = 9 },
 	{ name = "werebadger claws", chance = 13600000, maxCount = 9 },
 	{ name = "werebadger skull", chance = 13600000, maxCount = 9 },
 	{ name = "badger boots", chance = 400 },

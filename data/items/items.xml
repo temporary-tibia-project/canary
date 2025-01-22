@@ -7693,13 +7693,7 @@
 		<attribute key="charges" value="1"/>
 		<attribute key="weight" value="210"/>
 	</item>
-	<item id="3161" article="an" name="avalanche rune">
-		<attribute key="primarytype" value="attack runes"/>
-		<attribute key="type" value="rune"/>
-		<attribute key="runespellname" value="adori mas frigo"/>
-		<attribute key="charges" value="4"/>
-		<attribute key="weight" value="52"/>
-	</item>
+
 	<item fromid="3162" toid="3163" article="a" name="spell rune">
 		<attribute key="primarytype" value="utilities"/>
 		<attribute key="type" value="rune"/>
@@ -28637,11 +28631,11 @@
 		<attribute key="weight" value="120"/>
 	</item>
 	<item id="11623" article="a" name="silver rune emblem">
-		<attribute key="description" value="It's an adorned avalanche rune"/>
+		<attribute key="description" value="It's an adorned mana potion"/>
 		<attribute key="weight" value="120"/>
 	</item>
 	<item id="11624" article="a" name="golden rune emblem">
-		<attribute key="description" value="It's an adorned avalanche rune"/>
+		<attribute key="description" value="It's an adorned mana potion"/>
 		<attribute key="weight" value="120"/>
 	</item>
 	<item id="11625" article="a" name="silver rune emblem">
@@ -45841,21 +45835,13 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 	<item id="23370" article="a" name="spike trap"/>
 	<item id="23371" article="a" name="blade trap"/>
 	<item id="23372" article="a" name="spike trap"/>
-	<item id="23373" article="an" name="ultimate mana potion">
+	<item id="237" article="an" name="mana potion">
 		<attribute key="primarytype" value="liquids"/>
 		<attribute key="description" value="This potion can only be consumed by sorcerers and druids of level 130 or higher"/>
 		<attribute key="weight" value="310"/>
 	</item>
-	<item id="23374" article="an" name="ultimate spirit potion">
-		<attribute key="primarytype" value="liquids"/>
-		<attribute key="description" value="This potion can only be consumed by paladins of level 130 or higher"/>
-		<attribute key="weight" value="310"/>
-	</item>
-	<item id="23375" article="a" name="supreme health potion">
-		<attribute key="primarytype" value="liquids"/>
-		<attribute key="description" value="This potion can only be consumed by knights of level 200 or higher"/>
-		<attribute key="weight" value="350"/>
-	</item>
+	
+	
 	<item fromid="23376" toid="23387" name="unknown item"/>
 	<item id="23388" article="a" name="dead sparkion">
 		<attribute key="duration" value="10"/>
@@ -49303,7 +49289,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 	</item>
 	<item id="25883" article="a" name="supreme health cask">
 		<attribute key="primarytype" value="utilities"/>
-		<attribute key="description" value="This cask can be used to refill supreme health potions"/>
+		<attribute key="description" value="This cask can be used to refill mana potions"/>
 		<attribute key="charges" value="1000"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="200000"/>
@@ -49332,7 +49318,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 	</item>
 	<item id="25892" article="an" name="ultimate mana cask">
 		<attribute key="primarytype" value="utilities"/>
-		<attribute key="description" value="This cask can be used to refill ultimate mana potions"/>
+		<attribute key="description" value="This cask can be used to refill mana potions"/>
 		<attribute key="charges" value="1000"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="200000"/>
@@ -49352,7 +49338,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 	</item>
 	<item id="25900" article="a" name="ultimate spirit cask">
 		<attribute key="primarytype" value="utilities"/>
-		<attribute key="description" value="This cask can be used to refill ultimate spirit potions"/>
+		<attribute key="description" value="This cask can be used to refill mana potions"/>
 		<attribute key="charges" value="1000"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="200000"/>
@@ -49387,7 +49373,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 	</item>
 	<item id="25907" article="a" name="supreme health keg">
 		<attribute key="primarytype" value="liquids"/>
-		<attribute key="description" value="This keg can be used to refill supreme health potions"/>
+		<attribute key="description" value="This keg can be used to refill mana potions"/>
 		<attribute key="charges" value="500"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="87500"/>
@@ -49415,7 +49401,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 	</item>
 	<item id="25911" article="an" name="ultimate mana keg">
 		<attribute key="primarytype" value="liquids"/>
-		<attribute key="description" value="This keg can be used to refill ultimate mana potions"/>
+		<attribute key="description" value="This keg can be used to refill mana potions"/>
 		<attribute key="charges" value="500"/>
 		<attribute key="wrapableto" value="23398"/>
 		<attribute key="weight" value="77500"/>

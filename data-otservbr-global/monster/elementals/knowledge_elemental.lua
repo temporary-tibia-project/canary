@@ -89,7 +89,6 @@ monster.loot = {
 	{ id = 3051, chance = 10000 }, -- energy ring
 	{ name = "guardian shield", chance = 10000 },
 	{ name = "mana potion", chance = 10000, maxCount = 10 },
-	{ name = "ultimate mana potion", chance = 10000, maxCount = 8 },
 	{ name = "ultimate health potion", chance = 10000, maxCount = 8 },
 	{ name = "wand of cosmic energy", chance = 300 },
 }

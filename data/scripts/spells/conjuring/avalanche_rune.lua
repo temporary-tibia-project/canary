@@ -4,7 +4,7 @@ function spell.onCastSpell(creature, variant)
 	return creature:conjureItem(3147, 3161, 4)
 end
 
-spell:name("Avalanche Rune")
+spell:name("mana potion")
 spell:words("adori mas frigo")
 spell:group("support")
 spell:vocation("druid;true", "elder druid;true")

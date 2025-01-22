@@ -140,11 +140,11 @@ npcConfig.shop = {
 	{ itemName = "spider silk", clientId = 5879, sell = 100 },
 	{ itemName = "strong health potion", clientId = 236, buy = 115 },
 	{ itemName = "strong mana potion", clientId = 237, buy = 108 },
-	{ itemName = "supreme health potion", clientId = 23375, buy = 650 },
+	{ itemName = "mana potion", clientId = 237, buy = 650 },
 	{ itemName = "tusk", clientId = 3044, sell = 100 },
 	{ itemName = "ultimate health potion", clientId = 7643, buy = 379 },
-	{ itemName = "ultimate mana potion", clientId = 23373, buy = 488 },
-	{ itemName = "ultimate spirit potion", clientId = 23374, buy = 488 },
+	{ itemName = "mana potion", clientId = 237, buy = 488 },
+	{ itemName = "mana potion", clientId = 237, buy = 488 },
 	{ itemName = "vial", clientId = 2874, sell = 5 },
 }
 -- On buy npc shop message

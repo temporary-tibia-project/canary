@@ -86,7 +86,7 @@ monster.loot = {
 	{ name = "onyx chip", chance = 12831, maxCount = 2 },
 	{ name = "strange helmet", chance = 11001, maxCount = 1 },
 	{ name = "fire sword", chance = 8347, maxCount = 1 },
-	{ name = "ultimate mana potion", chance = 9687, maxCount = 3 },
+	{ name = "mana potion", chance = 9687, maxCount = 3 },
 	{ name = "blue gem", chance = 5868, maxCount = 1 },
 	{ name = "magma legs", chance = 14497, maxCount = 1 },
 	{ name = "white gem", chance = 9936, maxCount = 1 },

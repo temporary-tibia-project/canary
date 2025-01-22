@@ -54,7 +54,7 @@ npcHandler:addModule(FocusModule:new(), npcConfig.name, true, true, true)
 
 npcConfig.shop = {
 	{ itemName = "animate dead rune", clientId = 3203, buy = 375 },
-	{ itemName = "avalanche rune", clientId = 3161, buy = 64 },
+	{ itemName = "mana potion", clientId = 3161, buy = 64 },
 	{ itemName = "blank rune", clientId = 3147, buy = 10 },
 	{ itemName = "chameleon rune", clientId = 3178, buy = 210 },
 	{ itemName = "convince creature rune", clientId = 3177, buy = 80 },
@@ -91,12 +91,12 @@ npcConfig.shop = {
 	{ itemName = "strong health potion", clientId = 236, buy = 115 },
 	{ itemName = "strong mana potion", clientId = 237, buy = 108 },
 	{ itemName = "sudden death rune", clientId = 3155, buy = 162 },
-	{ itemName = "supreme health potion", clientId = 23375, buy = 650 },
+	{ itemName = "mana potion", clientId = 237, buy = 650 },
 	{ itemName = "thunderstorm rune", clientId = 3202, buy = 52 },
 	{ itemName = "ultimate healing rune", clientId = 3160, buy = 175 },
 	{ itemName = "ultimate health potion", clientId = 7643, buy = 379 },
-	{ itemName = "ultimate mana potion", clientId = 23373, buy = 488 },
-	{ itemName = "ultimate spirit potion", clientId = 23374, buy = 488 },
+	{ itemName = "mana potion", clientId = 237, buy = 488 },
+	{ itemName = "mana potion", clientId = 237, buy = 488 },
 	{ itemName = "wild growth rune", clientId = 3156, buy = 160 },
 }
 -- On buy npc shop message

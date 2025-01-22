@@ -85,8 +85,8 @@ monster.loot = {
 	{ name = "great mana potion", chance = 13600000, maxCount = 2 },
 	{ name = "great spirit potion", chance = 13600000, maxCount = 2 },
 	{ name = "small enchanted emerald", chance = 13600000, maxCount = 2 },
-	{ name = "ultimate mana potion", chance = 13600000, maxCount = 2 },
-	{ name = "ultimate spirit potion", chance = 13600000, maxCount = 2 },
+	{ name = "mana potion", chance = 13600000, maxCount = 2 },
+	{ name = "mana potion", chance = 13600000, maxCount = 2 },
 	{ name = "fox paw", chance = 13600000, maxCount = 2 },
 	{ name = "moonlight rod", chance = 13600000 },
 	{ id = 3049, chance = 13600000 }, -- stealth ring

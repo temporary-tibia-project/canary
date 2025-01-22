@@ -89,7 +89,6 @@ monster.loot = {
 	{ name = "violet gem", chance = 1200, maxCount = 4 },
 	{ name = "blue crystal splinter", chance = 1200, maxCount = 4 },
 	{ name = "cyan crystal fragment", chance = 1200, maxCount = 4 },
-	{ name = "ultimate mana potion", chance = 1200, maxCount = 4 },
 	{ name = "piece of dead brain", chance = 1200, maxCount = 4 },
 	{ name = "wand of defiance", chance = 800 },
 	{ name = "lightning headband", chance = 950 },

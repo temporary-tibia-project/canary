@@ -79,7 +79,6 @@ monster.loot = {
 	{ name = "small sapphire", chance = 100000, maxCount = 8 },
 	{ name = "quill", chance = 100000, maxCount = 8 },
 	{ name = "ultimate health potion", chance = 100000, maxCount = 8 },
-	{ name = "ultimate mana potion", chance = 100000, maxCount = 8 },
 	{ name = "diamond sceptre", chance = 100000 },
 	{ name = "frosty heart", chance = 100000, maxCount = 8 },
 	{ name = "glacier mask", chance = 350 },

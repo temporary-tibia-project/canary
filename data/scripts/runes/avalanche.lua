@@ -20,7 +20,7 @@ end
 
 rune:id(115)
 rune:group("attack")
-rune:name("avalanche rune")
+rune:name("mana potion")
 rune:castSound(SOUND_EFFECT_TYPE_SPELL_OR_RUNE)
 rune:impactSound(SOUND_EFFECT_TYPE_SPELL_AVALANCHE_RUNE)
 rune:runeId(3161)

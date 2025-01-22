@@ -82,7 +82,6 @@ monster.loot = {
 	{ id = 7643, chance = 40000, minCount = 1, maxCount = 19 }, -- ultimate health potion
 	{ id = 239, chance = 30000, minCount = 1, maxCount = 19 }, -- great health potion
 	{ id = 238, chance = 30000, minCount = 1, maxCount = 19 }, -- great mana potion
-	{ id = 23373, chance = 25000, minCount = 1, maxCount = 19 }, -- ultimate mana potion
 	{ id = 7440, chance = 22000, minCount = 1, maxCount = 9 }, -- mastermind potion
 	{ id = 7443, chance = 20000, minCount = 1, maxCount = 9 }, -- bullseye potion
 	{ id = 35572, chance = 17000, minCount = 3, maxCount = 102 }, -- pirate coin

@@ -85,11 +85,11 @@ monster.voices = {
 monster.loot = {
 	{ name = "energy bar", chance = 100000 },
 	{ name = "platinum coin", chance = 100000, maxCount = 5 },
-	{ name = "supreme health potion", chance = 57831, maxCount = 20 },
-	{ name = "ultimate mana potion", chance = 55723, maxCount = 20 },
+	{ name = "mana potion", chance = 57831, maxCount = 20 },
+	{ name = "mana potion", chance = 55723, maxCount = 20 },
 	{ name = "yellow gem", chance = 35843, maxCount = 2 },
 	{ id = 3039, chance = 35542, maxCount = 2 }, -- red gem
-	{ name = "ultimate spirit potion", chance = 31627, maxCount = 6 },
+	{ name = "mana potion", chance = 31627, maxCount = 6 },
 	{ name = "royal star", chance = 31325, maxCount = 100 },
 	{ name = "bullseye potion", chance = 22590, maxCount = 10 },
 	{ name = "berserk potion", chance = 21988, maxCount = 10 },
